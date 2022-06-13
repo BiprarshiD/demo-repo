@@ -1,2 +1,6 @@
 hey this is a text file that i have still not commited
 adding another line for commit practise
+
+here is the flow you need to follow in order to commit something on github
+1. git status
+2. git add
